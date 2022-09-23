@@ -6,3 +6,7 @@ Made using python and ffmpeg command line app.
 ## Installation
 
 ### Step 1: Merge and Unzip Files
+1. Go to RAREFILE folder
+2. Highlight all .rar file
+	
+![alt text](https://imgur.com/a/MrqgnC9)
