@@ -9,4 +9,4 @@ Made using python and ffmpeg command line app.
 1. Go to RAREFILE folder
 2. Highlight all .rar file
 	
-![alt text](https://imgur.com/a/MrqgnC9)
+![alt text](https://i.imgur.com/G4etPIo.png)
