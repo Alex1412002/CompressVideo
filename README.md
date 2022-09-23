@@ -9,9 +9,11 @@ Made using python and ffmpeg command line app.
 1. Go to RAREFILE folder
 
 2. Highlight all .rar file	
+
 ![alt text](https://i.imgur.com/G4etPIo.png)
 
 3. Extract to video_compress\
+
 ![alt text](https://i.imgur.com/75i7XDP.png)
 
 4. Drag .exe file out of the folder and remove RARFILE folder. (you should get this tree)
