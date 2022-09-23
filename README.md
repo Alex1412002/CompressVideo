@@ -20,3 +20,6 @@ Made using python and ffmpeg command line app.
 
 ![alt text](https://i.imgur.com/GhW0jes.png)
 
+5. Create a shortcut to your Desktop (Window Explorer wont find it).
+
+
