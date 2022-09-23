@@ -18,4 +18,5 @@ Made using python and ffmpeg command line app.
 
 4. Drag .exe file out of the folder and remove RARFILE folder. (you should get this tree)
 
+![alt text](https://i.imgur.com/GhW0jes.png)
 
