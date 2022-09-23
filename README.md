@@ -20,6 +20,6 @@ Made using python and ffmpeg command line app.
 
 ![alt text](https://i.imgur.com/GhW0jes.png)
 
-5. Create a main.exe shortcut to your Desktop (Window Explorer wont find it).
+5. Create a main.exe shortcut to your Desktop (Window Explorer wont find it) and rename it Compress Video.
 
 
